@@ -1,0 +1,16 @@
+
+/target/
+/*.class
+*.log
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+**/logs/
+*.log
+.idea
+.vscode/
+.classpath
+.project
+*.iml
+*.class
+application.properties
+application.yml
