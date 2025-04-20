@@ -44,7 +44,7 @@ Enter your choice:
 - Maven installed
 - Any Java IDE (e.g., IntelliJ IDEA, VS Code)
 
-Option 1: Using Maven
+Using Maven
 
 ```bash
 
